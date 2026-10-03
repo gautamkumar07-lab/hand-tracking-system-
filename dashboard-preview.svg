@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760">
+<rect width="1280" height="760" fill="#f3f5fb"/><rect width="1280" height="80" fill="#fff"/>
+<text x="38" y="49" font-family="Arial" font-size="27" font-weight="700" fill="#22243a">Hand Tracking System</text>
+<text x="1010" y="45" font-family="Arial" font-size="12" fill="#7e8198">COMPUTER VISION CONTROL CENTER</text>
+<rect x="28" y="102" width="850" height="620" rx="18" fill="#fff" stroke="#e7e9f1"/>
+<text x="52" y="137" font-family="Arial" font-size="17" font-weight="700" fill="#22243a">Live camera preview</text>
+<rect x="50" y="158" width="806" height="505" rx="10" fill="#181a2a"/>
+<circle cx="440" cy="340" r="110" fill="#293149"/><path d="M410 455 L405 345 L390 285 Q388 260 408 263 Q425 266 429 300 L435 238 Q438 215 456 220 Q473 223 470 249 L469 297 L485 245 Q492 225 508 233 Q522 241 514 264 L494 322 L520 291 Q535 279 546 293 Q555 306 541 325 L492 392 L484 455Z" fill="#c3c8d9" stroke="#92a0bc" stroke-width="4"/>
+<g stroke="#76e6bb" stroke-width="4" fill="#76e6bb"><path d="M410 455 L405 345 L390 285 M405 345 L435 300 L429 238 M435 300 L469 297 L470 249 M469 297 L494 322 L514 264 M494 322 L520 291 L541 325 M410 455 L484 455 L492 392"/><circle cx="405" cy="345" r="5"/><circle cx="435" cy="300" r="5"/><circle cx="429" cy="238" r="5"/><circle cx="469" cy="297" r="5"/><circle cx="470" cy="249" r="5"/><circle cx="494" cy="322" r="5"/><circle cx="514" cy="264" r="5"/><circle cx="520" cy="291" r="5"/><circle cx="541" cy="325" r="5"/></g>
+<rect x="71" y="178" width="245" height="40" rx="8" fill="#252a42"/><text x="87" y="203" font-family="Arial" font-size="15" fill="#8ff0c5">OPEN PALM · 5 FINGERS</text>
+<rect x="50" y="680" width="806" height="23" rx="5" fill="#e8f7f0"/><text x="63" y="696" font-family="Arial" font-size="12" fill="#329977">Camera active · processing locally</text>
+<rect x="898" y="102" width="354" height="620" rx="18" fill="#fff" stroke="#e7e9f1"/><text x="925" y="138" font-family="Arial" font-size="16" font-weight="700" fill="#22243a">CONTROL PANEL</text>
+<g font-family="Arial" font-size="16" fill="#565a72"><text x="925" y="186">Gesture: open_palm</text><text x="925" y="224">Fingers: 5</text><text x="925" y="262">FPS: 29.8</text><text x="925" y="300">Hands detected: 1</text></g>
+<path d="M923 328 H1225" stroke="#e9eaf1"/><g font-family="Arial" font-size="14" fill="#42455b"><rect x="926" y="351" width="16" height="16" rx="3" fill="#fff" stroke="#b9bbca"/><text x="954" y="364">Enable mouse control</text><rect x="926" y="389" width="16" height="16" rx="3" fill="#fff" stroke="#b9bbca"/><text x="954" y="402">Virtual drawing board</text><rect x="926" y="427" width="16" height="16" rx="3" fill="#fff" stroke="#b9bbca"/><text x="954" y="440">Record gesture dataset</text></g>
+<rect x="923" y="475" width="303" height="42" rx="8" fill="#7257d7"/><text x="1074" y="501" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#fff">Capture screenshot</text>
+<rect x="923" y="530" width="303" height="42" rx="8" fill="#fff" stroke="#dddbea"/><text x="1074" y="556" text-anchor="middle" font-family="Arial" font-size="14" fill="#5f6076">Export analytics CSV</text>
+<rect x="923" y="585" width="303" height="42" rx="8" fill="#fff" stroke="#dddbea"/><text x="1074" y="611" text-anchor="middle" font-family="Arial" font-size="14" fill="#5f6076">Volume up</text>
+<rect x="923" y="640" width="303" height="42" rx="8" fill="#fff" stroke="#dddbea"/><text x="1074" y="666" text-anchor="middle" font-family="Arial" font-size="14" fill="#5f6076">Quit</text>
+</svg>

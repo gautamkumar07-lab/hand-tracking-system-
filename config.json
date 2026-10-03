@@ -1,0 +1,13 @@
+{
+  "camera_index": 0,
+  "frame_width": 960,
+  "frame_height": 540,
+  "max_hands": 2,
+  "model_complexity": 0,
+  "min_detection_confidence": 0.6,
+  "min_tracking_confidence": 0.55,
+  "mouse_control_enabled": false,
+  "drawing_enabled": false,
+  "dataset_recording_enabled": false,
+  "gesture_label": "open_palm"
+}
